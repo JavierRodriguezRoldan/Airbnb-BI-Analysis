@@ -1,2 +1,4 @@
-# Airbnb-BI-Analysis
-Random Forest prediction and K-means clustering of Airbnb data for Europe
+## Airbnb Business Intelligence Analysis Project 
+### This is the final project of the Business Intelligence course in the Data Science and BI Master degree at Dalarna University
+The project consists of a literature review of Airbnb´s effect in some fields (Tourism, Gentrification and House rental market) as well as revising previous work about predicting the price of new Airbnb listings as well as using machine learning for inference too. Then analyse a dataset about Airbnbs in Europe with some, but little, data cleaning and pre-processing before performing K-means clustering to separate types of Airbnbs with the goal of better targeting different types of customers and also performing random forest in order to predict the price of a new listing in Barcelona so it can be compared with long-term rental of a house with the same characteristics to evaluate the differences in revenue that a homeowner would have; also the most relevant features to predict the price are shown for further analysis.
+Thanks for reading!
